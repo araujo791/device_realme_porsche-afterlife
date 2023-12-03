@@ -487,7 +487,3 @@ PRODUCT_BOOT_JARS += \
 
 # Inherit from the proprietary files makefile.
 $(call inherit-product, vendor/realme/porsche/porsche-vendor.mk)
-
-#Extra FOD Animation and FOD ICONS
-TARGET_HAS_UDFPS := true
-EXTRA_UDFPS_ANIMATIONS := true
