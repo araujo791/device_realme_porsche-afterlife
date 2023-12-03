@@ -1,0 +1,12 @@
+/*
+ * Copyright (C) 2022 The LineageOS Project
+ *
+ * SPDX-License-Identifier: Apache-2.0
+ */
+
+package vendor.oplus.hardware.biometrics.fingerprint@2.1;
+
+interface IBiometricsFingerprintClientCallbackEx {
+    oneway onEngineeringInfoUpdated(uint32_t lenth, vec<uint32_t> keys, vec<string> values);
+    oneway onFingerprintCmd(int32_t cmdId, vec<uint32_t> result, uint32_t resultLen);
+};

@@ -1,0 +1,12 @@
+#Covenant_Fuchsia
+ro.boot.verifiedbootstate=green
+ro.boot.veritymode=enforcing
+ro.boot.vbmeta.device_state=locked
+logd.statistics=0
+trustkernel.log.state=disable
+pm.sleep_mode=1
+ro.ril.power_collapse=1
+ro.config.hw_power_saving=1
+power.extreme.saving.mode=1
+ro.sys.battery_saver=1
+#Covenant_Fuchsia

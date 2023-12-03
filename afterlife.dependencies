@@ -1,0 +1,27 @@
+
+[
+  {
+    "repository": "IamCexary/android_kernel_realme_sm8350",
+    "target_path": "kernel/realme/sm8350",
+    "branch": "base",
+    "remote": "github"
+  },
+  {
+    "repository" : "araujo791/vendor_realme_porsche,
+    "target_path": "vendor/realme/porsche",
+    "branch": "PE13",
+    "remote": "github"
+  },
+  {
+    "repository" : "araujo791/vendor_realme_porsche-firmware",
+    "target_path": "vendor/realme/porsche-firmware",
+    "branch": "main",
+    "remote": "gitlab"
+  },
+  {
+    "repository" : "ad1tyas1ngh/vendor_realme_porsche-opluscamera",
+    "target_path": "vendor/realme/porsche-opluscamera",
+    "branch": "T",
+    "remote": "gitlab"
+  }
+]
