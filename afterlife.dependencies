@@ -1,15 +1,15 @@
 
 [
   {
-    "repository": "IamCexary/android_kernel_realme_sm8350",
+    "repository": "Dark-Matter7232/android_kernel_realme_sm8350",
     "target_path": "kernel/realme/sm8350",
-    "branch": "base",
+    "branch": "uvite",
     "remote": "github"
   },
   {
-    "repository" : "araujo791/vendor_realme_porsche,
+    "repository" : "araujo791/device_realme_porsche-afterlife,
     "target_path": "vendor/realme/porsche",
-    "branch": "PE13",
+    "branch": "afterlife",
     "remote": "github"
   },
   {
@@ -19,9 +19,9 @@
     "remote": "gitlab"
   },
   {
-    "repository" : "ad1tyas1ngh/vendor_realme_porsche-opluscamera",
-    "target_path": "vendor/realme/porsche-opluscamera",
-    "branch": "T",
-    "remote": "gitlab"
+    "repository" : "araujo791/vendor_realme_porsche",
+    "target_path": "vendor/realme/porsche",
+    "branch": "PE13",
+    "remote": "github"
   }
 ]
