@@ -12,7 +12,7 @@
 -->
 
 <resources>
-    <string name="maintainer_git_username">araujo791</string>
+    <string name="maintainer_git_username">https://github.com/araujo791</string>
     <string name="maintainer_tele_username">CovenantVayu</string>
     <string name="maintainer_ig_username">null</string>
     <string name="maintainer_fb_username">null</string>
