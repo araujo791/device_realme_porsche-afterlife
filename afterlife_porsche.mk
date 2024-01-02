@@ -27,9 +27,8 @@ AFTERLIFE_MAINTAINER := Covenant_Fuchsia
 # Offline Charging
 USE_PIXEL_CHARGING := true
 
-# CoreGapps
-AFTERLIFE_GAPPS := true
-AFTERLIFE_CORE := true
+# Gapps
+AFTERLIFE_GAPPS=true
 
 # disable/enable blur support, default is false
 TARGET_SUPPORTS_BLUR := true
